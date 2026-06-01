@@ -80,6 +80,9 @@ MCP servers for managing infrastructure, containers, and DevOps workflows.
 | 34 | **terraform-mcp-server** | The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development. | TBD | [GitHub](https://github.com/hashicorp/terraform-mcp-server) |
 | 35 | **awesome-devops-mcp-servers** | A curated list of awesome MCP servers focused on DevOps tools and capabilities. | TBD | [GitHub](https://github.com/rohitg00/awesome-devops-mcp-servers) |
 | 36 | **KiCAD-MCP-Server** | KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design. | TBD | [GitHub](https://github.com/mixelpixx/KiCAD-MCP-Server) |
+| 37 | **ghidra-mcp** | Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment. | TBD | [GitHub](https://github.com/bethington/ghidra-mcp) |
+| 38 | **awesome-agentic-ai-zh** | A structured, trilingual (繁中 / 简中 / English) learning roadmap for agentic AI — from LLM basics to multi-agent systems. 8 stages · 145+ curated projects · hands-on exercises. 中文 AI agent 學習地圖。 | TBD | [GitHub](https://github.com/WenyuChiou/awesome-agentic-ai-zh) |
+| 39 | **AssetOpsBench** | AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scenarios, 4 specialist agents (IoT, FMSR, TSFM, Work Order), and multi-agent orchestration blueprints (MetaAgent, AgentHive) over MCP. | TBD | [GitHub](https://github.com/IBM/AssetOpsBench) |
 
 ### Database & Storage
 
@@ -144,6 +147,10 @@ MCP servers for web search, content access, and web automation.
 | 26 | **duckduckgo-mcp-server** | A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing. | TBD | [GitHub](https://github.com/nickclyde/duckduckgo-mcp-server) |
 | 27 | **browser-use-mcp-server** | Browse the web, directly from Cursor etc. | TBD | [GitHub](https://github.com/kontext-security/browser-use-mcp-server) |
 | 28 | **openagent** | ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org | TBD | [GitHub](https://github.com/the-open-agent/openagent) |
+| 29 | **QuantDinger** | AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading | TBD | [GitHub](https://github.com/brokermr810/QuantDinger) |
+| 30 | **semble** | Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read | TBD | [GitHub](https://github.com/MinishLab/semble) |
+| 31 | **thClaws** | Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams. | TBD | [GitHub](https://github.com/thClaws/thClaws) |
+| 32 | **boss-agent-cli** | AI-agent-first CLI for BOSS 直聘 — 职位搜索、福利筛选、招聘者工作流、MCP 工具与 AI 简历优化 | TBD | [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) |
 
 ### Integrations & APIs
 
@@ -245,6 +252,7 @@ MCP servers for AI and machine learning capabilities.
 | 61 | **MeiGen-AI-Design-MCP** | Supports GPT Image 2, Nanobanana & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system | TBD | [GitHub](https://github.com/jau123/MeiGen-AI-Design-MCP) |
 | 62 | **google-meta-ads-ga4-mcp** | MCP server for Google Ads, Meta Ads & GA4 — works with ChatGPT, Claude, Cursor, n8n, Windsurf & more. 250+ tools for campaign management, analytics & optimization. | TBD | [GitHub](https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp) |
 | 63 | **cocos-mcp-server** | 一款全面的、便捷的cocos creator AI MCP服务插件，适用于3.8.0以上cocos版本，一键安装，一键启动。A comprehensive and convenient cocos creator AI MCP service plug-in, suitable for cocos versions above 3.8.0, one-click installation and one-click start. | TBD | [GitHub](https://github.com/DaxianLee/cocos-mcp-server) |
+| 64 | **FunASR** | Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API. | TBD | [GitHub](https://github.com/modelscope/FunASR) |
 
 ## MCP Clients
 
